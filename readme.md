@@ -1,7 +1,7 @@
 # Scientific Computing with Python
 Python Projects for get the certification of [freeCodeCamp](https://www.freecodecamp.org/)
 
-### Challenges for get the Certification
+### Challenges to solve
 
 * [Arithmetic Formatter](https://www.freecodecamp.org/learn/scientific-computing-with-python/scientific-computing-with-python-projects/arithmetic-formatter)
     * [Solution](./arithmetic_arranger.py)
